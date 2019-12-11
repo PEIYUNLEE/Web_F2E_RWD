@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.con_carousel{
+    width:80vw;
+}
